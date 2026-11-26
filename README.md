@@ -6,7 +6,7 @@ yang menahan rumah motor, dan torsinya tampil langsung di LCD — lengkap
 dengan buzzer dan LED yang menyala begitu torsinya melewati 0,50 N.m.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/f7AQtfoBW1I
 
 ## Komponen
 
